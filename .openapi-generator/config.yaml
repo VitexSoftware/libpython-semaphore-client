@@ -1,0 +1,7 @@
+---
+additionalProperties:
+  packageName: semaphore_client
+  projectName: semaphore_client
+  apiPackage: semaphore
+  UserId: VitexSoftware
+  RepoId: libpython-semphore-client
